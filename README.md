@@ -14,7 +14,7 @@ Libraries: Pandas, Numpy, sklearn.preprocessing, sklearn.cluster and sklearn
 
 Visualisation: Seaborn, matplotlib, and Scipy 
 
-Software: Jupyter Notebooks and Tableau
+Software: Jupyter Notebooks and [Tableau](https://public.tableau.com/app/profile/atika.sudi/viz/MedicalCost_16910161923440/ExploringMedicalCostPersonalInsuranceADatasetAnalysis)
 
 ## Demonstrated skills in various fields.
 
