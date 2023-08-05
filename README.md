@@ -20,21 +20,21 @@ Software: Jupyter Notebooks and [Tableau](https://public.tableau.com/app/profile
 
 + Data cleaning involves removing duplicates, resolving missing values, and addressing mixed or incorrect data types.
 
-+ Conduct exploratory visual analysis using relevant Python libraries
++ Conducting exploratory visual analysis using relevant Python libraries
 
-+  Prepare your data for regression analysis.
++  Preparing data for regression analysis.
   
-+  Split the data into two sets: a training set and a test set.
++  Splitting the data into two sets: a training set and a test set.
   
-+  Run a linear regression on the data and analyze the model performance statistics.
++  Running a linear regression on the data and analysing the model performance statistics.
 
-+  Prepare your data for cluster analysis.
++  Preparing data for cluster analysis.
    
-+   Use the elbow technique to determine the optimal number of clusters.
++   Using the elbow technique to determine the optimal number of clusters.
 
-+   Run the k-means algorithm.
++   Runing the k-means algorithm.
     
-+ Create a variety of different visualizations using your clustered data.
++ Creating a variety of different visualizations using clustered data.
 
-+ Calculate the descriptive statistics for your clusters using the groupby () function and discuss your findings and any proposed next steps.
++ The descriptive statistics for clusters using the group by () function was calculated before the findings were discussed and any proposed next steps.
 
