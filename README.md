@@ -38,3 +38,4 @@ Software: Jupyter Notebooks and [Tableau](https://public.tableau.com/app/profile
 
 + The descriptive statistics for clusters using the group by () function was calculated before the findings were discussed and any proposed next steps.
 
+
